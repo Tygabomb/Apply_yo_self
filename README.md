@@ -1,2 +1,2 @@
 # Apply_yo_self
-HTML and Java Script application that helps to apply for jobs 
+HTML5 and Java Script application that assits in applying to jobs 
